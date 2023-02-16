@@ -8,6 +8,6 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  cout << "This is with the changes made to the hello.cpp file"
+  cout << "This is with the changes made to the hello.cpp file";
   return 0;
 }
